@@ -22,8 +22,7 @@
 
 ![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 
-[!]perfil spotify-github](https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=compact&show_offline=false&background_color=0e1117&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=compact&show_offline=false&background_color=0e1117&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 ## 🔥Skills
 
 
