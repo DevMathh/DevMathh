@@ -1,42 +1,46 @@
 <h2 align="center">👋 Olá! Meu nome é Matheus Filipe</h2>
 
-###
+---
 
-<p align="center">
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação.  
-Atualmente, curso <b>Análise e Desenvolvimento de Sistemas</b>  
-Gosto de aprender novas tecnologias, desenvolver soluções criativas e colaborar em projetos que impactam positivamente as pessoas.
-</p>
+### 🧠 Sobre mim
 
-###
+- 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.  
+- 🚀 Estagiário em **Desenvolvimento Mobile** na **MOBHIS Automação Urbana**.  
+- 💡 Tenho interesse em **aplicações mobile, UI/UX e desenvolvimento full stack**.  
+- 🌱 Sempre explorando novas tecnologias e boas práticas de código.  
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathh&layout=compact&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
 </div>
 
-###
+---
 
 <table align="center" width="100%">
 <tr>
-<td align="left" width="60%" valign="top">
+<td align="center" width="60%" valign="top">
 
-<h3 align="left">💻 Habilidades Técnicas</h3>
+<h3>💻 Habilidades Técnicas</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React Native" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
 </div>
 
 </td>
@@ -45,15 +49,17 @@ Gosto de aprender novas tecnologias, desenvolver soluções criativas e colabora
 
 <h3>🎧 Música Atual</h3>
 
+<br>
+
 <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="260" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="300" alt="Spotify Now Playing" />
 </a>
 
 </td>
 </tr>
 </table>
 
-###
+---
 
 <h3 align="left">📫 Onde me encontrar</h3>
 
@@ -69,7 +75,7 @@ Gosto de aprender novas tecnologias, desenvolver soluções criativas e colabora
   </a>
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevMathh/DevMathh/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
