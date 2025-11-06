@@ -20,7 +20,7 @@
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:mfilipexr2007@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/matheus-filipe-35012235a)
 
-<div align="flex-start">
+<div align="left">
 ![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham)
 
 
