@@ -1,20 +1,13 @@
 <h2 align="center">Hello World</h2>
 
----
-
-
 - 👋 Olá! Meu nome é Matheus Filipe 
 - 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.
 - 💡 Tenho interesse em **aplicações mobile, UI/UX e desenvolvimento full stack**.  
 - 🌱 Sempre explorando novas tecnologias e boas práticas de código.  
 
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
 </div>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
