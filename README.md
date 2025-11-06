@@ -28,9 +28,9 @@
 </div>
 
 
-<div style="margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham" alt="DevMathh's GitHub stats" />
-</div>
+
+<div style="margin-top: 6px;"></div>
+![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham)
 
 <br></br>
 
