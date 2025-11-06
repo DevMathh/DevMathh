@@ -1,13 +1,18 @@
-<h2 align="center">👋 Olá! Meu nome é Matheus Filipe</h2>
+<h2 align="center">Hello World</h2>
 
 ---
 
-### 🧠 Sobre mim
 
-- 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.  
-- 🚀 Estagiário em **Desenvolvimento Mobile** na **MOBHIS Automação Urbana**.  
+- 👋 Olá! Meu nome é Matheus Filipe 
+- 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.
 - 💡 Tenho interesse em **aplicações mobile, UI/UX e desenvolvimento full stack**.  
 - 🌱 Sempre explorando novas tecnologias e boas práticas de código.  
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
+</div>
 
 ---
 
@@ -52,7 +57,7 @@
 <br>
 
 <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="300" alt="Spotify Now Playing" />
+  <img style="border-radius: 15px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="380" alt="Spotify Now Playing" />
 </a>
 
 </td>
