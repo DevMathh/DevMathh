@@ -28,8 +28,7 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DevMathh=anuraghazra&show_icons=true&theme=highcontrast)
-
+![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=highcontrast)
 
 ---
 
