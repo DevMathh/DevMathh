@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
- - 👋 Olá! Meu nome é Matheus Filipe  
+ - 👋 Olá! Meu nome é Matheus  
   
 - 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.
   
