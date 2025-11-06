@@ -25,7 +25,7 @@
 <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
   <img 
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=compact&show_offline=false&background_color=0e1117&interchange=false&profanity=false"
-    width="300" 
+    width="200" 
     alt="Spotify Profile"
   />
 </a>
