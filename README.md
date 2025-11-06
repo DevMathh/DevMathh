@@ -1,80 +1,67 @@
-<!-- Título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"> Hello World</h1></summary>
-  </ul>
-</div>
+<h2 align="center">🔥 Hello World</h2>
 
-<!-- Apresentação -->
-<p>
-  👋 Olá! Meu nome é <b>Matheus Filipe</b>, um desenvolvedor Full Stack apaixonado por tecnologia e inovação.
-
-  - 🎓 Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>UNIPAR</b>.  
-  - 🚀 Estagiário em <b>Desenvolvimento Mobile</b> na <b>MOBHIS Automação Urbana</b>.  
-  - 💡 Tenho interesse em <b>aplicações mobile, UI/UX e desenvolvimento full stack</b>.  
-  - 🌱 Sempre explorando novas tecnologias e boas práticas de código.  
-</p>
+- 👋 Olá! Meu nome é **Matheus Filipe**  
+- 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.  
+- 🚀 Estagiário em **Desenvolvimento Mobile** na **MOBHIS Automação Urbana**.  
+- 💡 Tenho interesse em **aplicações mobile, UI/UX e desenvolvimento full stack**.  
+- 🌱 Sempre explorando novas tecnologias e boas práticas de código.  
 
 ---
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathh.xz_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfilipexr2007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-filipe-35012235a)
-
----
-
-<!-- Estatísticas GitHub -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
 </div>
 
+---
 
+<h3 align="center">💻 Habilidades Técnicas</h3>
 
-<!-- Projetos -->
-## 🚀 Projetos Recentes:
-- [**Sistema de Gestão de Viagens**](#) — Protótipo Web e Mobile para gerenciamento de destinos, reservas e pacotes. *(React Native, Figma)*
-- [**Aplicativo de Perfil Pessoal**](#) — App com autenticação, edição de perfil e integração com API. *(React Native, Node.js)*
-- [**Simulador Bancário (POO)**](#) — Sistema Java com autenticação e operações bancárias básicas. *(Java, OOP)*
-- [**Protótipo Social Media**](#) — Modelagem e design de uma rede social. *(Figma, UML)*
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React Native" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+</div>
 
+---
 
-
-<!-- Música -->
+<h3 align="center">🎧 Música Atual</h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
-    <img style="border-radius: 20px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="400" alt="Spotify Now Playing" />
+    <img style="border-radius: 20px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="380" alt="Spotify Now Playing" />
   </a>
 </div>
 
+---
 
+<h3 align="left">📫 Onde me encontrar</h3>
 
-<!-- Habilidades -->
-## 🔥 Skills
+<div align="left">
+  <a href="https://www.instagram.com/mathh.xz_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="mailto:mfilipexr2007@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-filipe-35012235a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
 
-### 💬 Linguagens de Programação  
-<img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+---
 
-
-### ⚙️ Ferramentas & Frameworks  
-<img align="center" alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center" alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-
-
-
-
-
-
-
-<!-- Cobrinha -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevMathh/DevMathh/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
   <img src="https://raw.githubusercontent.com/DevMathh/DevMathh/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark mode" />
