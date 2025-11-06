@@ -28,7 +28,7 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DevMathh=anuraghazra&show_icons=true&theme=highcontrast)
 
 
 ---
