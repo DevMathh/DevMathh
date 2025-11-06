@@ -17,7 +17,7 @@ Gosto de aprender novas tecnologias, desenvolver soluções criativas e colabora
 
 ###
 
-<h3 align="center">🎧 Música que estou ouvindo agora</h3>
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
@@ -63,7 +63,7 @@ Gosto de aprender novas tecnologias, desenvolver soluções criativas e colabora
 
 ###
 
-<h3 align="left">🐍 Contribuições no GitHub</h3>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevMathh/DevMathh/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
