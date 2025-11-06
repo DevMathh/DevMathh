@@ -24,11 +24,9 @@
   </a>
   <a href="https://www.linkedin.com/in/matheus-filipe-35012235a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+  </a> \
 </div>
 
-
-### &nbsp;
 
 ![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham)
 
