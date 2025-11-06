@@ -21,14 +21,13 @@
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/matheus-filipe-35012235a)
 
 <div align="left">
-![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham)
 
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
 
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" height="180" alt="Spotify Now Playing" style="border-radius:15px;" />
 
- <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
-    <img style="border-radius: 20px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="380" alt="Spotify Now Playing" />
-  </a>
 </div>
+
 
 
 ## 🔥Skills
