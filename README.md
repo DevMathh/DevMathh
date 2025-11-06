@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center"> 🔥 Skills /h3>
+<h3 align="center"> 🔥 Skills </h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
