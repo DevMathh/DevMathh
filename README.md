@@ -24,7 +24,6 @@
 ![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham)
 
 
-<br></br>
 
  <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
     <img style="border-radius: 20px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="380" alt="Spotify Now Playing" />
