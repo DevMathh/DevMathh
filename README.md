@@ -29,8 +29,9 @@
 
 
 
-<div style="margin-top: 6px;"></div>
+<div style="margin-top: 6px;">
 ![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham)
+</div>
 
 <br></br>
 
