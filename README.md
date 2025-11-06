@@ -22,7 +22,7 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
+ <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />[DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" height="180" alt="Spotify Now Playing" style="border-radius:15px;" />
 
