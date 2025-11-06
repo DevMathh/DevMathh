@@ -49,6 +49,7 @@
 <br clear="both">
 
 <!-- Cobrinha funcionando -->
-<img src="https://raw.githubusercontent.com/DevMathh/DevMathh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://raw.githubusercontent.com/DevMathh/DevMathh/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/DevMathh/DevMathh/output/snake-dark.svg#gh-dark-mode-only)
 
 ###
