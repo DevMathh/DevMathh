@@ -1,20 +1,39 @@
-<h2 align="center">🔥 Hello World</h2>
-
-- 👋 Olá! Meu nome é **Matheus Filipe**  
-- 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.  
-- 🚀 Estagiário em **Desenvolvimento Mobile** na **MOBHIS Automação Urbana**.  
-- 💡 Tenho interesse em **aplicações mobile, UI/UX e desenvolvimento full stack**.  
-- 🌱 Sempre explorando novas tecnologias e boas práticas de código.  
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!-- Presentation -->
+<p>
+ - 👋 Olá! Meu nome é **Matheus Filipe**  
+  
+- 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.
+  
+- 💡 Tenho interesse em **aplicações mobile, UI/UX e desenvolvimento full stack**.
+  
+- 🌱 Sempre explorando novas tecnologias e boas práticas de código.
+</p>
+
+  <div align="left">
+  <a href="https://www.instagram.com/mathh.xz_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="mailto:mfilipexr2007@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-filipe-35012235a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do GitHub" />
+
+
 ---
 
-<h3 align="center">💻 Habilidades Técnicas</h3>
+## 🔥Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
@@ -34,33 +53,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
 </div>
 
----
 
-<h3 align="center">🎧 Música Atual</h3>
 
-<div align="center">
   <a href="https://open.spotify.com/user/31nmo5pe3k2rddk52jpn5cbnqwsi" target="_blank">
     <img style="border-radius: 20px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&hide_title=true" width="380" alt="Spotify Now Playing" />
   </a>
-</div>
 
----
 
-<h3 align="left">📫 Onde me encontrar</h3>
 
-<div align="left">
-  <a href="https://www.instagram.com/mathh.xz_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:mfilipexr2007@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-filipe-35012235a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevMathh/DevMathh/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
