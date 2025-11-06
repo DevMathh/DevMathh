@@ -11,8 +11,8 @@
 
 <!-- Card do Spotify no lugar do gif -->
 <div align="right">
-  <a href="https://open.spotify.com/user/SEU_ID_SPOTIFY" target="_blank">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" height="150" />
+<img align="right" height="180" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmo5pe3k2rddk52jpn5cbnqwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&profanity=false" alt="Spotify Now Playing" />
+
   </a>
 </div>
 
