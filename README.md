@@ -27,7 +27,8 @@
 
 ## Projetos
 
-### - [Mini Sistema Bancário](https://github.com/DevMathh/Projects/tree/main/MiniSistemaBancario)
+- [**MiniSistemaBancario**](https://github.com/DevMathh/Projects/tree/main/MiniSistemaBancario)  
+
 
 <br></br>
 
