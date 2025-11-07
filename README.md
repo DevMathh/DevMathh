@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
- - 👋 Olá! Meu nome é Matheus  
+- 👋 Olá! Meu nome é Matheus  
   
 - 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIPAR**.
   
@@ -26,7 +26,7 @@
 
 ## Projetos
 
-### - [Mini Sistema Bancário](https://github.com/DevMathh/Projects/tree/main/MiniSistemaBancario)
+<p>### - [Mini Sistema Bancário](https://github.com/DevMathh/Projects/tree/main/MiniSistemaBancario)</p>
 
 <br></br>
 
