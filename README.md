@@ -26,7 +26,7 @@
 
 
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h3 style="display: inline-block">Projetos</h3></summary>
 </div>
 
