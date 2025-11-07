@@ -25,7 +25,10 @@
 ![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 
 
-## Projetos
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Projetos</h3></summary>
+</div>
 
 - [**MiniSistemaBancario**](https://github.com/DevMathh/Projects/tree/main/MiniSistemaBancario)  
 
