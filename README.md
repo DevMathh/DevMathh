@@ -24,6 +24,10 @@
 ![DevMathh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMathh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 
 
+## Projetos
+
+### 🏦 [Mini Sistema Bancário](https://github.com/DevMathh/Projects/tree/main/MiniSistemaBancario)
+💬 Sistema de conta bancária em Java com autenticação e operações simples.
 
 
 
